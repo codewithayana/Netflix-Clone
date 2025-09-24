@@ -52,4 +52,4 @@ A static clone of the **Netflix landing page**, created using only **HTML and CS
 
 
 ---
-💖 **how your support for this project by giving it a star on GitHub!**
+💖 **If you like this project, please give it a star on GitHub!**
